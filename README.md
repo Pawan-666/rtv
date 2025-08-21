@@ -1,6 +1,3 @@
-**THIS PROJECT IS NO LONGER MAINTAINED**
-
-- [RTV Development is Shutting Down](https://github.com/michael-lazar/rtv/issues/696)
 - [List of Alternative Projects](https://gist.github.com/michael-lazar/8c31b9f637c3b9d7fbdcbb0eebcf2b0a)
 
 <h1 align="center">Reddit Terminal Viewer (RTV)</h1>
@@ -30,13 +27,6 @@ A text-based interface (TUI) to view and interact with Reddit from your terminal
 <img alt="title image" src="resources/demo.gif"/>
 </p>
 
-You can use *telnet* or *ssh* to try out a lite version of RTV directly in your terminal, without needing to install it:
-
-- ``$ telnet redditbox.us``
-- ``$ ssh redditbox.us``
-
-*[redditbox.us](https://redditbox.us/) is an independent project by Alex Jarmoszuk*
-
 ## Installation
 
 ### Python setup (macOS/Linux)
@@ -47,7 +37,7 @@ Prerequisites: Python 3.8+, git, a Unicode-capable terminal.
 
 ```bash
 # clone if you don't already have the sources
-git clone https://github.com/michael-lazar/rtv.git
+git clone https://github.com/Pawan-666/rtv.git
 cd rtv
 
 # create and activate a virtual environment
